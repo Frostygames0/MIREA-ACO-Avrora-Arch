@@ -1,8 +1,8 @@
 # Maintainer: Ivan <HIDDEN>
-pkgname=mirea-aso-avrora
+pkgname=mirea-aso-avrora-bin
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="Qt 5 Web Engine app for OOP course in RTU MIREA"
+pkgdesc="ASO Avrora for OOP course in RTU MIREA"
 arch=('x86_64')
 url="https://mirea.aco-avrora.ru/"
 license=('unknown')
