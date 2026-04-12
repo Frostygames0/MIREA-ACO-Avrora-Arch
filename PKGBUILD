@@ -1,5 +1,5 @@
 # Maintainer: Ivan <HIDDEN>
-pkgname=mirea-aso-avrora-bin
+pkgname=mirea-aco-avrora-bin
 pkgver=1.0.0
 pkgrel=1
 pkgdesc="ASO Avrora for OOP course in RTU MIREA"
