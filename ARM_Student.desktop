@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ASO Avrora
+Exec=/usr/bin/ARM_Student
+Icon=ARM_Student
+Terminal=false
+Categories=Education;Network;
+StartupWMClass=ARM_Student
