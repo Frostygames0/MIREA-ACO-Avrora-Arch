@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=ASO Avrora
+Name=ACO Avrora
 Exec=/usr/bin/ARM_Student
 Icon=ARM_Student
 Terminal=false
