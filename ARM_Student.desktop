@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=ACO Avrora
+Name[ru]=АСО Аврора
 Exec=/usr/bin/ARM_Student
 Icon=ARM_Student
 Terminal=false
