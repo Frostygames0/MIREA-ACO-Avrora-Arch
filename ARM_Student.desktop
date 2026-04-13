@@ -2,8 +2,10 @@
 Type=Application
 Name=ACO Avrora
 Name[ru]=АСО Аврора
+Comment=Automated Learning System
+Comment[ru]=Автоматизированная система обучения
 Exec=/usr/bin/ARM_Student
 Icon=ARM_Student
 Terminal=false
-Categories=Education;Network;
+Categories=Education;
 StartupWMClass=ARM_Student

@@ -1,8 +1,8 @@
 # Maintainer: Ivan <HIDDEN>
 pkgname=mirea-aco-avrora-bin
 pkgver=1.0.0
-pkgrel=4
-pkgdesc="ASO Avrora for OOP course in RTU MIREA"
+pkgrel=5
+pkgdesc="ACO Avrora"
 arch=('x86_64')
 url="https://mirea.aco-avrora.ru/"
 license=('unknown')
