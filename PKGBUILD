@@ -1,11 +1,12 @@
 # Maintainer: Ivan <HIDDEN>
 pkgname=mirea-aco-avrora-bin
 pkgver=1.0.0
-pkgrel=2
+pkgrel=3
 pkgdesc="ASO Avrora for OOP course in RTU MIREA"
 arch=('x86_64')
 url="https://mirea.aco-avrora.ru/"
 license=('unknown')
+options=(!strip)
 depends=(
 	'qt5-webengine'
 	'gcc-libs'
