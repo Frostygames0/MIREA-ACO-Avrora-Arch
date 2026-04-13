@@ -1,17 +1,20 @@
 # Maintainer: Ivan <HIDDEN>
 pkgname=mirea-aco-avrora-bin
 pkgver=1.0.0
-pkgrel=1
+pkgrel=2
 pkgdesc="ASO Avrora for OOP course in RTU MIREA"
 arch=('x86_64')
 url="https://mirea.aco-avrora.ru/"
 license=('unknown')
 depends=(
 	'qt5-webengine'
-	'qt5-webchannel'
-	'qt5-declarative'
 	'gcc-libs'
 	'glibc'
+)
+optdepends=(
+    'qt5-wayland: Qt 5 Wayland support'
+    'kwayland5: Fixes incorrect cursor theme on KDE'
+    'plasma5-integration: If you have weird issues on KDE, this might help as well'
 )
 source=("https://mirea.aco-avrora.ru/new/ARM_Student.tgz"
 		'ARM_Student.desktop'
