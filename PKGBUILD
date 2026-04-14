@@ -1,4 +1,4 @@
-# Maintainer: Ivan <HIDDEN>
+# Maintainer: Ivan 'Frostygames0' <frostygames0.aur@yandex.ru>
 pkgname=mirea-aco-avrora-bin
 pkgver=1.0.0
 pkgrel=5
